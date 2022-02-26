@@ -6,4 +6,5 @@ iv)ans= None
 vi)ans= nums.forEach(print);
 vii)ans= Ensures type safety
          Reduce code duplication
+         Can work in a single interface that takes a type parameter 
          
